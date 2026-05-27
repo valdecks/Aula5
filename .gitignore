@@ -1,0 +1,10 @@
+code .gitignore
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais (caso use)
+venv/
+.venv/
+
